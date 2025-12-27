@@ -1,1 +1,22 @@
+Day 1 Task: Create Key Pair
+question:
+The Nautilus DevOps team is strategizing the migration of a portion of their infrastructure to the AWS cloud.
+Recognizing the scale of this undertaking, they have opted to approach the migration in incremental steps rather than as a single massive transition. 
+To achieve this, they have segmented large tasks into smaller, more manageable units. This granular approach enables the team to execute the migration in gradual phases, 
+ensuring smoother implementation and minimizing disruption to ongoing operations. By breaking down the migration into smaller tasks, the Nautilus DevOps team can systematically progress through each stage, allowing for better control, risk mitigation, and optimization of resources throughout the migration process.
 
+For this task, create a key pair with the following requirements:
+
+Name of the key pair should be devops-kp.
+
+Key pair type must be rsa
+
+steps:
+*Log in to the AWS Management Console.
+*In the search bar at the top, type EC2 and open the EC2 dashboard.
+*From the left navigation panel, scroll down to the Network & Security section.
+*Click on Key Pairs.
+*Click the Create key pair button.
+*Enter the key pair name as given in requirement and select key pair type and create key pair.
+* note Create the resources only in us-east-1 region.
+click the check box in the lab.

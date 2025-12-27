@@ -17,6 +17,6 @@ steps:
 *From the left navigation panel, scroll down to the Network & Security section.
 *Click on Key Pairs.
 *Click the Create key pair button.
-*Enter the key pair name as given in requirement and select key pair type and create key pair.
+*Enter the key pair name as given in requirement and select key pair type as pem and create key pair.
 * note Create the resources only in us-east-1 region.
 click the check box in the lab.
